@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T05:11:18.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="F1sHfNNwLR_swayfemqj" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T06:22:28.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="zfmJfSdotfL-jxm0_jV2" version="20.4.1" type="github">
   <diagram id="qEBc_DxsvB0SU8BZdqwE" name="ERD Tugas besar">
     <mxGraphModel dx="1335" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="bQ1U6ILn6BQxf65cEkmv-4" value="Vaksin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bQ1U6ILn6BQxf65cEkmv-5" value="Melakukan pemeriksaan" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bQ1U6ILn6BQxf65cEkmv-5" value="Melakukan pemeriksaan (screening)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="180" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bQ1U6ILn6BQxf65cEkmv-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bQ1U6ILn6BQxf65cEkmv-2" target="bQ1U6ILn6BQxf65cEkmv-5">
