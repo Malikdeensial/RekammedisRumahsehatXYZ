@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T13:14:58.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="B4JpH84Q5mXeTYxdfy3o" version="20.4.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-20T13:16:27.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="76BmrRA2TS8uuVsPZAoP" version="20.4.1" type="github" pages="5">
   <diagram id="qEBc_DxsvB0SU8BZdqwE" name="ERD Tugas besar">
     <mxGraphModel dx="1447" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -624,8 +624,8 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UwrpVy5EN1GZeuh0YWxE-27" value="Mendapat" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="690" width="140" height="140" as="geometry" />
+        <mxCell id="UwrpVy5EN1GZeuh0YWxE-27" value="Memberikan hasil vaksin" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="680" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UwrpVy5EN1GZeuh0YWxE-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UwrpVy5EN1GZeuh0YWxE-27" target="YISOWzO9-VzmFqMbKEj6-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
