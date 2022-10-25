@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T15:38:28.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dkZuXt898evQK1eVuX7Y" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-25T15:40:10.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vpUBgqROI4zrSj-WMAuV" version="20.5.1" type="github" pages="3">
   <diagram id="J85F5kLYz26s0xKF-rmb" name="LOGIN">
     <mxGraphModel dx="868" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
             <mxRectangle width="60" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cNmfZKNoVAVRK17JZ-MI-96" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Tanggal&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Times New Roman;fontSize=28;fontStyle=1" vertex="1" parent="cNmfZKNoVAVRK17JZ-MI-93">
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-96" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Tanggal&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;fontFamily=Times New Roman;fontSize=28;fontStyle=1" vertex="1" parent="cNmfZKNoVAVRK17JZ-MI-93">
           <mxGeometry x="120" width="83" height="50" as="geometry">
             <mxRectangle width="83" height="50" as="alternateBounds" />
           </mxGeometry>
@@ -310,6 +310,18 @@
           <mxGeometry x="120" width="83" height="30" as="geometry">
             <mxRectangle width="83" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-109" value="Simpan" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="640" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-110" value="Edit" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="680" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-111" value="Hapus" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="720" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-112" value="Cetak" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="620" y="750" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
