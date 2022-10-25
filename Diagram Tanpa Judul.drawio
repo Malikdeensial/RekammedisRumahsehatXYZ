@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T15:40:10.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vpUBgqROI4zrSj-WMAuV" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-25T15:42:49.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="45kVScVYAR-rBlQdN3kE" version="20.5.1" type="github" pages="3">
   <diagram id="J85F5kLYz26s0xKF-rmb" name="LOGIN">
     <mxGraphModel dx="868" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -321,7 +321,19 @@
           <mxGeometry x="1150" y="720" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cNmfZKNoVAVRK17JZ-MI-112" value="Cetak" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="620" y="750" width="110" height="30" as="geometry" />
+          <mxGeometry x="1150" y="760" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-113" value="&lt;b&gt;Nomor Supplier&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-114" value="&lt;b&gt;Nama&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="667" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-115" value="&lt;b&gt;Alamat&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="670" y="420" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-116" value="&lt;b&gt;Telepon&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="670" y="540" width="63" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
