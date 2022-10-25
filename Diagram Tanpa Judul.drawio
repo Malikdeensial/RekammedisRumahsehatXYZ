@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T15:23:47.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EB8NgyOie4xTlJl8dWWx" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-25T15:30:21.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="SvvKc3qb_kip_t_KQBeb" version="20.5.1" type="github" pages="3">
   <diagram id="J85F5kLYz26s0xKF-rmb" name="LOGIN">
     <mxGraphModel dx="868" dy="385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aAkKYE69v-pqtPhrp3Py" name="Sup">
-    <mxGraphModel dx="1578" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1335" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,6 +142,24 @@
         </mxCell>
         <mxCell id="cNmfZKNoVAVRK17JZ-MI-15" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Data Supplier&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="850" y="230" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="827" y="330" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="827" y="375" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="827" y="420" width="230" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="827" y="540" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="827" y="580" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNmfZKNoVAVRK17JZ-MI-20" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.calendar;fontFamily=Comic Sans MS;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="580" width="27" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
