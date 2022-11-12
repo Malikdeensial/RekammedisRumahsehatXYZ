@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T02:01:22.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BIYZWNWp_gXNkO5ITnkZ" version="20.5.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-11-12T02:05:39.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="T0jEgQcp1Tmq-KKsj9eH" version="20.5.3" type="github" pages="10">
   <diagram id="J85F5kLYz26s0xKF-rmb" name="LOGIN">
     <mxGraphModel dx="1240" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aAkKYE69v-pqtPhrp3Py" name="Sup">
-    <mxGraphModel dx="1578" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1578" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -339,7 +339,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OdWNgvTG-_cmUN1O9d6D" name="Layar Perhitungan AHP">
-    <mxGraphModel dx="1736" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,12 +401,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kn5Q0sRwqX1TR6uGblKx" name="PerhitunganHargaratarata">
-    <mxGraphModel dx="1736" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QlzvgGxDCCAZaMxDgw4Z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="1680" height="950" as="geometry" />
+          <mxGeometry x="280" y="170" width="1680" height="950" as="geometry" />
         </mxCell>
         <mxCell id="QlzvgGxDCCAZaMxDgw4Z-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="328.76" y="197.5" width="80" height="80" as="geometry" />
@@ -902,11 +902,23 @@
         <mxCell id="aLTdJ8of1eYc0r31nLXQ-134" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="888.5" y="988" width="166" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KVlaSc-GO2woCx3t50h7-1" value="Hitung" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="814" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlaSc-GO2woCx3t50h7-2" value="Save" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="864" width="110" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlaSc-GO2woCx3t50h7-3" value="Cetak" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="924" width="110" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="KVlaSc-GO2woCx3t50h7-4" value="Kembali" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="977" width="110" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="_YAPNKOW7NLmYgB2KbmZ" name="Laporan Data Supplier">
-    <mxGraphModel dx="1736" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1736" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
