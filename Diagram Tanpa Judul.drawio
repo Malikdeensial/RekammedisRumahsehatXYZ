@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T02:05:47.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uWM2HwoJ3fD8tBWOvqA_" version="20.5.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-11-12T02:06:00.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rgMPIIrZ2n-cYEhlsNRP" version="20.5.3" type="github" pages="10">
   <diagram id="J85F5kLYz26s0xKF-rmb" name="LOGIN">
     <mxGraphModel dx="1240" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -401,7 +401,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kn5Q0sRwqX1TR6uGblKx" name="PerhitunganHargaratarata">
-    <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="2170" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -906,13 +906,13 @@
           <mxGeometry x="1170" y="814" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="KVlaSc-GO2woCx3t50h7-2" value="Save" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="864" width="110" height="36" as="geometry" />
+          <mxGeometry x="1170" y="869" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="KVlaSc-GO2woCx3t50h7-3" value="Cetak" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1170" y="924" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="KVlaSc-GO2woCx3t50h7-4" value="Kembali" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="977" width="110" height="36" as="geometry" />
+          <mxGeometry x="1170" y="979" width="110" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
